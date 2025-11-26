@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522A1D2C-3190-44A5-A4E1-5104FAECBDFB}|Laboratorio 19-3\\Laboratorio 19-3.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio 19-3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A1D2C-3190-44A5-A4E1-5104FAECBDFB}|Laboratorio 19-3\\Laboratorio 19-3.csproj|solutionrelative:laboratorio 19-3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2A2B36-3615-4D4B-A233-7406BF92CEA8}|Laboratorio 19-2\\Laboratorio 19-2.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio 19-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2A2B36-3615-4D4B-A233-7406BF92CEA8}|Laboratorio 19-2\\Laboratorio 19-2.csproj|solutionrelative:laboratorio 19-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio 19.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio19\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio 19.csproj|solutionrelative:laboratorio19\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio 19.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio19\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio 19.csproj|solutionrelative:laboratorio19\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A1D2C-3190-44A5-A4E1-5104FAECBDFB}|Laboratorio 19-3\\Laboratorio 19-3.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio 19-3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A1D2C-3190-44A5-A4E1-5104FAECBDFB}|Laboratorio 19-3\\Laboratorio 19-3.csproj|solutionrelative:laboratorio 19-3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2A2B36-3615-4D4B-A233-7406BF92CEA8}|Laboratorio 19-2\\Laboratorio 19-2.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio19\\laboratorio 19-2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2A2B36-3615-4D4B-A233-7406BF92CEA8}|Laboratorio 19-2\\Laboratorio 19-2.csproj|solutionrelative:laboratorio 19-2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\laboratorio19\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|solutionrelative:laboratorio19\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\laboratorio19\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|solutionrelative:laboratorio19\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\laboratorio19\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDF62D-697E-4838-8925-AC8FBBD7EC97}|Laboratorio19\\Laboratorio19.csproj|solutionrelative:laboratorio19\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Laboratorio19\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Laboratorio19\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:36:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 19-3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio 19-3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T06:20:17.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19-3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio 19-3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:20:05.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 19-2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio 19-2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T06:19:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19-2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio 19-2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio 19-2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:18:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio19\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio19\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:50:11.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio19\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio19\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:59:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio19\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Laboratorio19\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:53:40.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Models\\WS\\Reply.cs",
+              "RelativeDocumentMoniker": "Laboratorio19\\Models\\WS\\Reply.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio19\\Laboratorio19\\Models\\WS\\Reply.cs",
+              "RelativeToolTip": "Laboratorio19\\Models\\WS\\Reply.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:49:57.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

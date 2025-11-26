@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Tabla de Multiplicar";
+}
+
+<h2>Tabla de Multiplicar</h2>
+
+<form method="post">
+    <input type="number" name="numero" required />
+    <button type="submit">Generar</button>
+</form>
+
+@if (ViewBag.Tabla != null)
+{
+    <h3>Resultado:</h3>
+    <ul>
+        @foreach (var item in ViewBag.Tabla)
+        {
+            <li>@item</li>
+        }
+    </ul>
+}

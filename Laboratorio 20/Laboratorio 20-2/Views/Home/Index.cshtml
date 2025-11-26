@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Matriz Diagonal Inversa";
+}
+
+<h2>Matriz Diagonal Inversa</h2>
+
+<form method="post">
+    <label>Ingrese N:</label>
+    <input type="number" name="n" required />
+    <br /><br />
+    <button type="submit">Generar matriz</button>
+</form>
+
+<br />
+
+@if (ViewBag.Matriz != null)
+{
+    int[,] mat = (int[,])ViewBag.Matriz;
+    int n = ViewBag.N;
+
+    <table border="1" cellpadding="10">
+        @for (int i = 0; i < n; i++)
+        {
+            <tr>
+                @for (int j = 0; j < n; j++)
+                {
+                    <td>@mat[i, j]</td>
+                }
+            </tr>
+        }
+    </table>
+}

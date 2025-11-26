@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD26002-37D1-4FB9-9CD3-D83A78462CCF}|Laboratorio 20-3\\Laboratorio 20-3.csproj|c:\\users\\jhez1\\source\\repos\\laboratorio 20\\laboratorio 20-3\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD26002-37D1-4FB9-9CD3-D83A78462CCF}|Laboratorio 20-3\\Laboratorio 20-3.csproj|solutionrelative:laboratorio 20-3\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD26002-37D1-4FB9-9CD3-D83A78462CCF}|Laboratorio 20-3\\Laboratorio 20-3.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\laboratorio 20-3\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD26002-37D1-4FB9-9CD3-D83A78462CCF}|Laboratorio 20-3\\Laboratorio 20-3.csproj|solutionrelative:laboratorio 20-3\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEC2F2A-F137-4848-A557-8CFA39368F2C}|Laboratorio 20-2\\Laboratorio 20-2.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\laboratorio 20-2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDEC2F2A-F137-4848-A557-8CFA39368F2C}|Laboratorio 20-2\\Laboratorio 20-2.csproj|solutionrelative:laboratorio 20-2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEC2F2A-F137-4848-A557-8CFA39368F2C}|Laboratorio 20-2\\Laboratorio 20-2.csproj|C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\laboratorio 20-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEC2F2A-F137-4848-A557-8CFA39368F2C}|Laboratorio 20-2\\Laboratorio 20-2.csproj|solutionrelative:laboratorio 20-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-3\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 20-3\\Controllers\\LaptopsController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-3\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "Laboratorio 20-3\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:45:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-3\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Laboratorio 20-3\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-3\\Models\\Laptop.cs",
+              "RelativeToolTip": "Laboratorio 20-3\\Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:44:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 20-2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio 20-2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:36:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 20-2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\Laboratorio 20\\Laboratorio 20-2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio 20-2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:31:51.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
