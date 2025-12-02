@@ -1,0 +1,91 @@
+﻿@model Parcial_3.Models.Evento
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Evento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CasoID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CasoID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoEvento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoEvento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaHoraInicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaHoraInicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaHoraFin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaHoraFin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubicacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubicacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EsPlazoLegal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EsPlazoLegal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadoEvento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadoEvento)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EventoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

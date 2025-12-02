@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Parcial_3.Models.Documento>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CasoID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreDocumento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoDocumento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreArchivo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RutaArchivo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaSubida)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Notas)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CasoID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreDocumento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoDocumento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreArchivo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RutaArchivo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaSubida)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Notas)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.DocumentoID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.DocumentoID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.DocumentoID })
+        </td>
+    </tr>
+}
+
+</table>

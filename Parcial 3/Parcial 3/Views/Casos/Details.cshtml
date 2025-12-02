@@ -1,0 +1,83 @@
+﻿@model Parcial_3.Models.Caso
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Caso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AbogadoAsignado.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbogadoAsignado.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoCaso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoCaso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaInicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaInicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaVencimiento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaVencimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadoCaso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadoCaso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prioridad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prioridad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CasoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

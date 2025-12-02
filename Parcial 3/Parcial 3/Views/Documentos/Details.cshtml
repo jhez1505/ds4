@@ -1,0 +1,75 @@
+﻿@model Parcial_3.Models.Documento
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Documento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CasoID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CasoID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreDocumento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreDocumento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoDocumento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoDocumento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreArchivo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreArchivo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RutaArchivo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RutaArchivo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaSubida)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaSubida)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Notas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Notas)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DocumentoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
