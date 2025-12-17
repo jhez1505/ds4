@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\create\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\create\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\delete\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\delete\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\delete\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\delete\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\edit\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\edit\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\edit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\edit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\models\\padredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\models\\padredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\models\\padrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\models\\padrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\padres\\create\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\padres\\create\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestralv1.2\\semestralv1.2\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395CCF80-B72E-7B78-E7CC-CA86866503A8}|Semestralv1.2\\Semestralv1.2.csproj|solutionrelative:semestralv1.2\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PadreCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Models\\PadreCreateDto.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Models\\PadreCreateDto.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Models\\PadreCreateDto.cs",
+              "RelativeToolTip": "Semestralv1.2\\Models\\PadreCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:30:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml.cs",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:19:48.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml.cs",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:16:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Delete\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T06:16:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Edit\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T06:15:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml.cs",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:08:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Create\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T06:08:23.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T00:38:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T00:00:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T00:00:38.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Index.cshtml.cs",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:34:06.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\Padres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\Padres\\Index.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\Padres\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:33:29.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Semestralv1.2\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:31:39.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Program.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Program.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Program.cs",
+              "RelativeToolTip": "Semestralv1.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:30:23.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PadreDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Models\\PadreDto.cs",
+              "RelativeDocumentMoniker": "Semestralv1.2\\Models\\PadreDto.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\Models\\PadreDto.cs",
+              "RelativeToolTip": "Semestralv1.2\\Models\\PadreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:30:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\appsettings.json",
+              "RelativeDocumentMoniker": "Semestralv1.2\\appsettings.json",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestralv1.2\\Semestralv1.2\\appsettings.json",
+              "RelativeToolTip": "Semestralv1.2\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T23:26:48.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

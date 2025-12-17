@@ -1,0 +1,37 @@
+﻿@page
+@model Semestralv1._2.Pages.Padres.Create.CreateModel
+
+<form method="post">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Nuevo Padre</h3>
+        </div>
+
+        <div class="card-body">
+            <div class="form-group">
+                <label>Cédula</label>
+                <input asp-for="Padre.Cedula" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>Nombre</label>
+                <input asp-for="Padre.Nombre" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>Apellido</label>
+                <input asp-for="Padre.Apellido" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>Teléfono</label>
+                <input asp-for="Padre.Telefono" class="form-control" />
+            </div>
+        </div>
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <a asp-page="/Padres/Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </div>
+</form>

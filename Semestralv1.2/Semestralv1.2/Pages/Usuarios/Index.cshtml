@@ -1,0 +1,76 @@
+﻿@page
+@model Semestralv1._2.Pages.Usuarios.IndexModel
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h1 class="m-0">Usuarios</h1>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Usuarios registrados</h3>
+
+                <a class="btn btn-primary float-right"
+                   asp-page="./Create/Index">
+                    Nuevo Usuario
+                </a>
+            </div>
+
+            <div class="card-body">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Username</th>
+                            <th>Password</th>
+                            <th>Rol</th>
+                            <th>ParentID</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var u in Model.Usuarios)
+                        {
+                            <tr>
+                                <td>@u.UserID</td>
+                                <td>@u.Username</td>
+                                <td>@u.Password</td>
+                                <td>
+                                    @if (u.ParentID == null)
+                                    {
+                                        <span class="badge badge-info">Admin</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge badge-success">Padre</span>
+                                    }
+                                </td>
+                                <td>
+                                    @(u.ParentID == null ? "Admin" : u.ParentID.ToString())
+                                </td>
+                                <td>
+                                    <a class="btn btn-warning btn-sm"
+                                       asp-page="./Edit/Index"
+                                       asp-route-id="@u.UserID">
+                                        Editar
+                                    </a>
+
+                                    <a class="btn btn-danger btn-sm"
+                                       asp-page="./Delete/Index"
+                                       asp-route-id="@u.UserID">
+                                        Eliminar
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</section>

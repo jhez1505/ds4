@@ -1,0 +1,51 @@
+﻿@page
+@model Semestralv1._2.Pages.Ninos.IndexModel
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h3 class="card-title">Niños</h3>
+        <a asp-page="./Create/Index" class="btn btn-primary">
+            Nuevo Niño
+        </a>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Padre ID</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Fecha Nacimiento</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var n in Model.Ninos)
+                {
+                    <tr>
+                        <td>@n.ChildID</td>
+                        <td>@n.ParentID</td>
+                        <td>@n.Nombre</td>
+                        <td>@n.Apellido</td>
+                        <td>@n.FechaNacimiento.ToShortDateString()</td>
+                        <td>
+                            <a asp-page="./Edit/Index"
+                               asp-route-id="@n.ChildID"
+                               class="btn btn-warning btn-sm">
+                                Editar
+                            </a>
+
+                            <a asp-page="./Delete/Index"
+                               asp-route-id="@n.ChildID"
+                               class="btn btn-danger btn-sm">
+                                Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

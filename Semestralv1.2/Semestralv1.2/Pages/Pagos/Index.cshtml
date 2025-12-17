@@ -1,0 +1,51 @@
+﻿@page
+@model Semestralv1._2.Pages.Pagos.IndexModel
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h1 class="m-0">Pagos</h1>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Pagos registrados</h3>
+                <a class="btn btn-primary float-right" asp-page="./Create/Index">
+                    Nuevo Pago
+                </a>
+            </div>
+
+            <div class="card-body">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Padre</th>
+                            <th>Niño</th>
+                            <th>Monto</th>
+                            <th>Método</th>
+                            <th>Fecha</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model.Pagos)
+                        {
+                            <tr>
+                                <td>@p.PagoID</td>
+                                <td>@p.ParentID</td>
+                                <td>@(p.ChildID ?? 0)</td>
+                                <td>B/. @p.Monto</td>
+                                <td>@p.MetodoPago</td>
+                                <td>@p.FechaPago.ToString("dd/MM/yyyy")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</section>

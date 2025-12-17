@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Semestral\\Semestral\\Guarderia.api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Semestralv1.2\\Semestralv1.2\\Semestralv1.2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

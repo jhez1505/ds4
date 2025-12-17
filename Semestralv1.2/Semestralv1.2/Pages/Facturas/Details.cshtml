@@ -1,0 +1,13 @@
+﻿@page "{id:int}"
+@model Semestralv1._2.Pages.Facturas.DetailsModel
+
+<h1>Factura @Model.Factura.NumeroFactura</h1>
+
+<hr />
+
+<p><strong>Padre ID:</strong> @Model.Factura.ParentID</p>
+<p><strong>Fecha:</strong> @Model.Factura.FechaEmision</p>
+<p><strong>Monto:</strong> B/. @Model.Factura.MontoTotal</p>
+<p><strong>Estado:</strong> @Model.Factura.Estado</p>
+
+<a asp-page="Index" class="btn btn-secondary">Volver</a>

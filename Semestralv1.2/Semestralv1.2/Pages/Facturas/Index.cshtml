@@ -1,0 +1,62 @@
+﻿@page
+@model Semestralv1._2.Pages.Facturas.IndexModel
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h1 class="m-0">Facturas</h1>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Facturas generadas</h3>
+            </div>
+
+            <div class="card-body">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>N° Factura</th>
+                            <th>Padre ID</th>
+                            <th>Fecha</th>
+                            <th>Monto</th>
+                            <th>Estado</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var f in Model.Facturas)
+                        {
+                            <tr>
+                                <td>@f.InvoiceID</td>
+                                <td>@f.NumeroFactura</td>
+                                <td>@f.ParentID</td>
+                                <td>@f.FechaEmision.ToShortDateString()</td>
+                                <td>B/. @f.MontoTotal</td>
+                                <td>
+                                    <span class="badge badge-@(f.Estado == "Pagada" ? "success" : "warning")">
+                                        @f.Estado
+                                    </span>
+                                </td>
+                                <td>
+                                    <a class="btn btn-info btn-sm"
+                                       asp-page="Details"
+                                       asp-route-id="@f.InvoiceID">
+                                        Ver
+                                    </a>
+
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</section>

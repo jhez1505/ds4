@@ -1,0 +1,27 @@
+﻿@page "{id:int}"
+@model EditModel
+
+<h3>Editar Usuario</h3>
+
+<form method="post">
+    <div class="form-group">
+        <label>Username</label>
+        <input asp-for="Usuario.Username" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Usuario.Password" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Rol</label>
+        <select asp-for="Usuario.Role" class="form-control">
+            <option>Admin</option>
+            <option>Padre</option>
+        </select>
+    </div>
+
+    <button class="btn btn-warning">Actualizar</button>
+    <a asp-page="../Index" class="btn btn-secondary">Cancelar</a>
+</form>

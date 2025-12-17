@@ -1,0 +1,29 @@
+﻿@page "{id:int}"
+@model Semestralv1._2.Pages.Padres.Delete.DeleteModel
+
+<div class="card card-danger">
+    <div class="card-header">
+        <h3 class="card-title">Eliminar Padre</h3>
+    </div>
+
+    <div class="card-body">
+        <p class="text-danger">
+            ⚠️ ¿Estás seguro que deseas eliminar este registro?
+        </p>
+
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Cédula:</strong> @Model.Padre.Cedula</li>
+            <li class="list-group-item"><strong>Nombre:</strong> @Model.Padre.Nombre</li>
+            <li class="list-group-item"><strong>Apellido:</strong> @Model.Padre.Apellido</li>
+            <li class="list-group-item"><strong>Teléfono:</strong> @Model.Padre.Telefono</li>
+        </ul>
+    </div>
+
+    <div class="card-footer">
+        <form method="post">
+            <input type="hidden" asp-for="Padre.ParentID" />
+            <button class="btn btn-danger">Eliminar</button>
+            <a asp-page="/Padres/Index" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+﻿@page
+@model Semestralv1._2.Pages.Ninos.Create.CreateModel
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Nuevo Niño</h3>
+    </div>
+
+    <form method="post">
+        <div class="card-body">
+            <input asp-for="Nino.ParentID" class="form-control mb-2" placeholder="ID del Padre" />
+            <input asp-for="Nino.Nombre" class="form-control mb-2" placeholder="Nombre" />
+            <input asp-for="Nino.Apellido" class="form-control mb-2" placeholder="Apellido" />
+            <input asp-for="Nino.FechaNacimiento" type="date" class="form-control mb-2" />
+            <input asp-for="Nino.CondicionMedica" class="form-control mb-2" placeholder="Condición Médica" />
+            <input asp-for="Nino.Alergias" class="form-control mb-2" placeholder="Alergias" />
+        </div>
+
+        <div class="card-footer">
+            <button class="btn btn-primary">Guardar</button>
+            <a asp-page="/Ninos/Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+</div>

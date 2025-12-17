@@ -1,0 +1,32 @@
+﻿@page
+@model Semestralv1._2.Pages.Pagos.Create.CreateModel
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Nuevo Pago</h3>
+    </div>
+
+    <form method="post">
+        <div class="card-body">
+
+            <input asp-for="Pago.ParentID" class="form-control mb-2" placeholder="ID Padre" />
+            <input asp-for="Pago.ChildID" class="form-control mb-2" placeholder="ID Niño (opcional)" />
+            <input asp-for="Pago.Monto" class="form-control mb-2" placeholder="Monto" />
+
+            <select asp-for="Pago.MetodoPago" class="form-control mb-2">
+                <option value="Transferencia">Transferencia</option>
+                <option value="Efectivo">Efectivo</option>
+                <option value="Yappy">Yappy</option>
+            </select>
+
+            <input asp-for="Pago.Referencia" class="form-control mb-2" placeholder="Referencia" />
+            <textarea asp-for="Pago.Observacion" class="form-control mb-2" placeholder="Observación"></textarea>
+
+        </div>
+
+        <div class="card-footer">
+            <button class="btn btn-success">Guardar</button>
+            <a asp-page="/Pagos/Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+</div>

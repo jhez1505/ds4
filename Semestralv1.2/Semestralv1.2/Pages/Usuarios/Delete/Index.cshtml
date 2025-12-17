@@ -1,0 +1,10 @@
+﻿@page "{id:int}"
+@model DeleteModel
+
+<h3>Eliminar Usuario</h3>
+<p>¿Seguro que deseas desactivar este usuario?</p>
+
+<form method="post">
+    <button class="btn btn-danger">Eliminar</button>
+    <a asp-page="../Index" class="btn btn-secondary">Cancelar</a>
+</form>

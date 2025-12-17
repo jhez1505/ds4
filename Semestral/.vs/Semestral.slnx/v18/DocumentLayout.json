@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\padrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\padrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\padrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\padrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\data\\guarderiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\data\\guarderiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\semestral.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\semestral.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\comprobantepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\comprobantepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\comprobantepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\comprobantepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\nino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\nino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\controllers\\ninoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\controllers\\ninoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|c:\\users\\jhez1\\source\\repos\\jhez1505\\ds4\\semestral\\semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6CF3890-0008-385E-8283-D7CCE9FDFB5D}|Semestral\\Guarderia.api.csproj|solutionrelative:semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PadreCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\PadreCreateDto.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\PadreCreateDto.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\PadreCreateDto.cs",
+              "RelativeToolTip": "Semestral\\Models\\PadreCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:35:25.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Semestral.http",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Semestral.http",
+              "RelativeDocumentMoniker": "Semestral\\Semestral.http",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Semestral.http",
+              "RelativeToolTip": "Semestral\\Semestral.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-15T06:05:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComprobantePagoController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\ComprobantePagoController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\ComprobantePagoController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\ComprobantePagoController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\ComprobantePagoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:12:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:12:10.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleFacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\DetalleFacturaController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\DetalleFacturaController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\DetalleFacturaController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\DetalleFacturaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:11:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:11:02.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:08:57.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComprobantePago.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\ComprobantePago.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\ComprobantePago.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\ComprobantePago.cs",
+              "RelativeToolTip": "Semestral\\Models\\ComprobantePago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:59:00.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Pago.cs",
+              "RelativeToolTip": "Semestral\\Models\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:58:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "Semestral\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:58:14.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Factura.cs",
+              "RelativeToolTip": "Semestral\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:57:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Usuario.cs",
+              "RelativeToolTip": "Semestral\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:56:58.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NinosController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\NinosController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\NinosController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\NinosController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\NinosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:34:03.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PadresController.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\PadresController.cs",
+              "RelativeDocumentMoniker": "Semestral\\Controllers\\PadresController.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Controllers\\PadresController.cs",
+              "RelativeToolTip": "Semestral\\Controllers\\PadresController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:28:04.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\appsettings.json",
+              "RelativeDocumentMoniker": "Semestral\\appsettings.json",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\appsettings.json",
+              "RelativeToolTip": "Semestral\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T01:11:38.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuarderiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Data\\GuarderiaDbContext.cs",
+              "RelativeDocumentMoniker": "Semestral\\Data\\GuarderiaDbContext.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Data\\GuarderiaDbContext.cs",
+              "RelativeToolTip": "Semestral\\Data\\GuarderiaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:10:05.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nino.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Nino.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\Nino.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Nino.cs",
+              "RelativeToolTip": "Semestral\\Models\\Nino.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:08:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Padre.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Padre.cs",
+              "RelativeDocumentMoniker": "Semestral\\Models\\Padre.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Models\\Padre.cs",
+              "RelativeToolTip": "Semestral\\Models\\Padre.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:07:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Program.cs",
+              "RelativeDocumentMoniker": "Semestral\\Program.cs",
+              "ToolTip": "C:\\Users\\jhez1\\source\\repos\\jhez1505\\ds4\\Semestral\\Semestral\\Program.cs",
+              "RelativeToolTip": "Semestral\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:56:30.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

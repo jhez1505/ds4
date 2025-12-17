@@ -1,0 +1,58 @@
+﻿@page
+@model Semestralv1._2.Pages.IndexModel
+
+<section class="content pt-3">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-info">
+                    <div class="inner">
+                        <h3>@Model.Dashboard.Padres</h3>
+                        <p>Padres</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-success">
+                    <div class="inner">
+                        <h3>@Model.Dashboard.Ninos</h3>
+                        <p>Niños</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-child"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-warning">
+                    <div class="inner">
+                        <h3>@Model.Dashboard.PagosMes</h3>
+                        <p>Pagos del mes</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-danger">
+                    <div class="inner">
+                        <h3>@Model.Dashboard.Deudores</h3>
+                        <p>Deudores</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-exclamation-triangle"></i>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,65 @@
+﻿@page
+@model Semestralv1._2.Pages.Padres.IndexModel
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h1 class="m-0">Padres</h1>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Padres registrados</h3>
+                <a class="btn btn-primary float-right"
+                   asp-page="/Padres/Create/Index">
+                    Nuevo Padre
+                </a>
+            </div>
+
+            <div class="card-body">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Cédula</th>
+                            <th>Nombre</th>
+                            <th>Apellido</th>
+                            <th>Teléfono</th>
+                            <th>Estado</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model.Padres)
+                        {
+                            <tr>
+                                <td>@p.Cedula</td>
+                                <td>@p.Nombre</td>
+                                <td>@p.Apellido</td>
+                                <td>@p.Telefono</td>
+                                <td>@p.Estado</td>
+                                <td>
+                                    <a class="btn btn-warning btn-sm"
+                                       asp-page="./Edit/Index"
+                                       asp-route-id="@p.ParentID">
+                                        Editar
+                                    </a>
+
+                                    <a class="btn btn-danger btn-sm"
+                                       asp-page="./Delete/Index"
+                                       asp-route-id="@p.ParentID">
+                                        Eliminar
+                                    </a>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</section>
